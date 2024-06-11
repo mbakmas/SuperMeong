@@ -1,0 +1,1 @@
+6796158342,{"query_id":"AAGGJRUVAwAAAIYlFRXJHKyQ","user":"{\"id\":6796158342,\"first_name\":\"Maslahah\",\"last_name\":\"\",\"username\":\"masal021\",\"language_code\":\"id\",\"allows_write_to_pm\":true}","auth_date":"1717473089","hash":"22c85c97596ccaa2354b81e2a7360fa279284baadfdaaa1e870ce47bea438d33"}
